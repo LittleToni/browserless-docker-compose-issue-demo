@@ -8,4 +8,4 @@ Run `npm install` to install all dependencies.
 
 ## Usage
 
-Run `docker-compose up` to start containers. Call `localhost/check` to run the demo.
+Run `docker-compose up` to start containers. Call `http://localhost/check/15` & `http://localhost/check/16` to run the demo.
